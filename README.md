@@ -6,19 +6,12 @@ Players must guess a randomly generated number based on the selected difficulty 
 Permainan Tebak Angka sederhana dan interaktif menggunakan Python.
 Pemain harus menebak angka acak sesuai tingkat kesulitan yang dipilih.
 
-🌟 Features | Fitur
-🇬🇧 English	🇮🇩 Indonesia
-Multiple difficulty levels	Beberapa tingkat kesulitan
-Random number generation	Angka dihasilkan secara acak
-Input validation	Validasi input
-Attempt counter	Penghitung jumlah percobaan
-Replay option	Opsi bermain kembali
-
 🎮 Difficulty Levels | Tingkat Kesulitan
 Level	Range
 Easy	1 – 10
 Medium	1 – 50
 Hard	1 – 100
+
 🧠 Learning Purpose | Tujuan Pembelajaran
 
 This project was created to practice fundamental Python concepts:
